@@ -160,12 +160,13 @@ public class PersonaMySQLDAO implements PersonaDAO{
         PreparedStatement pstmt = null;
         boolean respuesta = false;
         try {
-             pstmt = con.prepareStatement("Delete from persona where identificacion="+p.getIdentificacion());
-            con.close();
+            pstmt = con.prepareStatement("delete from persona where identificacion="+p.getIdentificacion());
+            pstmt.executeUpdate();
+            
         } catch (SQLException ex) {
             Logger.getLogger(PersonaMySQLDAO.class.getName()).log(Level.SEVERE, null, ex);
         }
-        
+        respuesta=true;
         return respuesta;
     }
 

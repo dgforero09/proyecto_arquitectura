@@ -52,7 +52,7 @@ $('html,body').animate({scrollTop:$(this.hash).offset().top},1000);
 <span class="icon-bar"></span>
  </button>
 <div class="w3layouts-logo">
-<h1><a href="index.html">Hosting <span>City</span></a></h1>
+<h1><a href="index.html">Monitorias <span>Estudiantiles</span></a></h1>
 </div>
 </div>
 
@@ -61,8 +61,6 @@ $('html,body').animate({scrollTop:$(this.hash).offset().top},1000);
 <nav>
 <ul class="nav navbar-nav">
 <li><a href="helloworld.htm" class="hvr-sweep-to-bottom">Home</a></li>
-<li><a href="about.html" class="hvr-sweep-to-bottom">About</a></li>
-<li><a href="plans.html" class="hvr-sweep-to-bottom">Plans</a></li>
 <li class="active"><a href="#" class="dropdown-toggle hvr-sweep-to-bottom" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Persona<span class="caret"></span></a>
 <ul class="dropdown-menu">
 <li><a class="hvr-sweep-to-bottom" href="personaCrear.htm">Crear</a></li>
@@ -72,8 +70,6 @@ $('html,body').animate({scrollTop:$(this.hash).offset().top},1000);
                                                                                 
 </ul>
 </li>
-<li><a href="blog.html" class="hvr-sweep-to-bottom">Blog</a></li>
-<li><a href="mail.html" class="hvr-sweep-to-bottom">Mail Us</a></li>
 </ul>
 </nav>
 </div>
@@ -104,74 +100,8 @@ $('html,body').animate({scrollTop:$(this.hash).offset().top},1000);
 </div>
 <!-- footer -->
 <div class="footer">
-<div class="container">
-<div class="agile-footer-grids">
-<div class="col-md-4 agile-footer-grid">
-<h4>History of <span>Hosting</span></h4>
-<p>Pellentesque urna ex, ultricies a nunc at, pretium maximus nisi. Vestibulum non auctor diam. Mauris eget consectetur mauris. <span>Aenean leo elit, accumsan vel elit vitae, mattis ultricies lacus. Cras consectetur justo lorem, sed dictum sapien eleifend at.</span></p>
-</div>
-<div class="col-md-4 agile-footer-grid">
-<h4>Twitter <span>Posts</span></h4>
-<ul class="w3agile_footer_grid_list">
-<li>Ut aut reiciendis voluptatibus maiores <a href="#">http://example.com</a> alias, ut aut reiciendis.
-<span><i class="fa fa-twitter" aria-hidden="true"></i> 02 days ago</span></li>
-<li>Itaque earum rerum hic tenetur a sapiente delectus <a href="#">http://example.com</a> ut aut
-voluptatibus.<span><i class="fa fa-twitter" aria-hidden="true"></i> 03 days ago</span></li>
-</ul>
-</div>
-<div class="col-md-4 agile-footer-grid">
-<h4>Popular <span>Posts</span></h4>
-<div class="popular-grids">
-<div class="popular-grid">
-<a href="#"><img src="images/6.jpg" alt=""></a>
-</div>
-<div class="popular-grid">
-<a href="#"><img src="images/7.jpg" alt=""></a>
-</div>
-<div class="popular-grid">
-<a href="#"><img src="images/8.jpg" alt=""></a>
-</div>
-<div class="popular-grid">
-<a href="#"><img src="images/9.jpg" alt=""></a>
-</div>
-<div class="clearfix"> </div>
-</div>
-<div class="popular-grids agileits-w3layouts-popular">
-<div class="popular-grid">
-<a href="#"><img src="images/10.jpg" alt=""></a>
-</div>
-<div class="popular-grid">
-<a href="#"><img src="images/4.jpg" alt=""></a>
-</div>
-<div class="popular-grid">
-<a href="#"><img src="images/6.jpg" alt=""></a>
-</div>
-<div class="popular-grid">
-<a href="#"><img src="images/7.jpg" alt=""></a>
-</div>
-<div class="clearfix"> </div>
-</div>
-<div class="popular-grids">
-<div class="popular-grid">
-<a href="#"><img src="images/8.jpg" alt=""></a>
-</div>
-<div class="popular-grid">
-<a href="#"><img src="images/9.jpg" alt=""></a>
-</div>
-<div class="popular-grid">
-<a href="#"><img src="images/10.jpg" alt=""></a>
-</div>
-<div class="popular-grid">
-<a href="#"><img src="images/4.jpg" alt=""></a>
-</div>
-<div class="clearfix"> </div>
-</div>
-</div>
-<div class="clearfix"> </div>
-</div>
-</div>
 <div class="copyright">
-<p>© 2016 Hosting City. All rights reserved | Design by <a href="http://w3layouts.com">W3layouts</a></p>
+<p>Creado por Daniel y David @2020</p>
 </div>
 </div>
 <!-- //footer -->
