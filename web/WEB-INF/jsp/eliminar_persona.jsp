@@ -38,6 +38,7 @@ $('html,body').animate({scrollTop:$(this.hash).offset().top},1000);
 });
 });
 </script>
+<!-- //pricing Codigo sin anidar, es codigo nuevo -->
 </head>
 <body>
 <div class="header">

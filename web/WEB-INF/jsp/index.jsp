@@ -41,7 +41,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 <link href='css/immersive-slider.css' rel='stylesheet' type='text/css'>
 <!-- pricing -->
 <link rel="stylesheet" href="css/jquery.flipster.css">
-<!-- //pricing -->
+<!-- //pricing Codigo sin anidar, es codigo nuevo -->
 </head>
 <body>
 <div class="header">
